@@ -35,10 +35,10 @@ The project includes:
 Health is grouped into 5 bands:
 
 - 75
-- 51–74
-- 31–50
-- 16–30
-- 1–15
+- 51-74
+- 31-50
+- 16-30
+- 1-15
 
 These produce a 17-state model indicating health comparison and terminal states.
 

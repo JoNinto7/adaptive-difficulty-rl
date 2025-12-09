@@ -126,8 +126,6 @@ project_root/
 
 ## How to Run
 
-### Notebook Version 
-
 Open:
 ```
 RLinTBGames.ipynb

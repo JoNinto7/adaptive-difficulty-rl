@@ -164,5 +164,3 @@ Each figure includes descriptive captions in the report.
 - Higher exploration (50/50) leads to smoother long-term performance
 - Scripted agents validate expected difficulty boundaries
 - Results closely align with the original paper's findings
-
-The experiment is considered complete and meets all objectives originally outlined in the project proposal.

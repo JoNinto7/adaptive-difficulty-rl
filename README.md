@@ -130,7 +130,7 @@ project_root/
 
 Open:
 ```
-main.ipynb
+RLinTBGames.ipynb
 ```
 
 and run all cells.

@@ -120,11 +120,6 @@ A rule-based stochastic model mimicking human behavior:
 ```
 project_root/
 │
-├── results/
-│   ├── metrics/
-│   ├── plots/
-│   └── logs/
-│
 ├── README.md  ← (this file)
 └── RLinTBGames.ipynb  ← full runnable notebook
 ```
